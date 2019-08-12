@@ -7,7 +7,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Client {
-
+int a = 0;
     /**
      * 获取spring的Ioc核心容器,并根据id获取对象
      *
